@@ -41,7 +41,12 @@ To design a centralized, fully interactive Excel dashboard that simplifies emplo
 ## 💡 Why This Dashboard?
 
 This project blends *automation, visualization, and interactivity* — all in Excel.  
-It’s designed to replace static sheets with a *smart, dynamic HR management tool* that saves time, improves accuracy, and presents data beautifully
+It’s designed to replace static sheets with a *smart, dynamic HR management tool* that saves time, improves accuracy, and presents data beautifully.
+
+## 🔗 Connect With Me
+
+*Author:* Neha Kashyap  
+
 
 
 
