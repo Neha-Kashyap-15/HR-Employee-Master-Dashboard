@@ -20,7 +20,7 @@ To design a centralized, fully interactive Excel dashboard that simplifies emplo
 - 💡 *Clean, professional design for easy interpretation*
 -  *Icons linked to sheets for quick navigation*
 
-## 🧩 Core Sheets & Features
+## 🧩 Sheets Overview
 
 | Sheet | Key Functionality |
 |-------|-------------------|
@@ -29,5 +29,7 @@ To design a centralized, fully interactive Excel dashboard that simplifies emplo
 | 🖼️ Pictures | Dynamic image mapping |
 | 📑 Interactive Data | One-click employee profile viewer via dropdown |
 | 📈 Overview Dashboard | Live KPIs, charts, and summary blocks |
+
+
 
 
