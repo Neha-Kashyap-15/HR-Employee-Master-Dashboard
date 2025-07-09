@@ -32,11 +32,17 @@ To design a centralized, fully interactive Excel dashboard that simplifies emplo
 
 ## 🚀 Use Cases
 
-✔️ HR Employee Profile Lookup  
-✔️ Visual Hiring & Joinings Analysis  
-✔️ Departmental & Gender Reporting  
-✔️ Salary and Job Tracking  
-✔️ HR Dashboard Presentations
+✔ HR Reporting & Workforce Analytics
+
+✔️ Real-Time Performance Score Tracking
+
+✔️ On-Demand Employee Insight & Profile Access
+
+✔️ Automated Risk Detection & Exception Highlighting
+
+✔️ Excel-Based HRMS Solution for Streamlined Operations
+
+✔️ Data-Backed Support for Promotions & Appraisals
 
 ## 💡 Why This Dashboard?
 
