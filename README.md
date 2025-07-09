@@ -1,5 +1,7 @@
 # HR Employee Master Data Dashboard – Excel Automation
 
+*"From raw data to real-time employee insights — all in one Excel file."*
+
 📅 *Created on:* 8th July 2025
 -  *Domain:* Human Resources | Data Analytics | Excel Dashboarding
 -  *Built with:* Microsoft Excel | Pivot Tables | Charts |Data validation |Conditional formatting | INDEX-MATCH | Visual ranges |  Named Ranges | Sheet navigation with Hyperlinked Icons | Dynamic Dashboard Design |
