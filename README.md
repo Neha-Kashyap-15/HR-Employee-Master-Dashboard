@@ -32,17 +32,19 @@ To design a centralized, fully interactive Excel dashboard that simplifies emplo
 
 ## 🚀 Use Cases
 
-✔ HR Reporting & Workforce Analytics
+✔ *HR Reporting & Workforce Analytics*
 
-✔️ Real-Time Performance Score Tracking
+✔️ *Real-Time Performance Score Tracking*
 
-✔️ On-Demand Employee Insight & Profile Access
+✔️ *On-Demand Employee Insight & Profile Access*
 
-✔️ Automated Risk Detection & Exception Highlighting
+✔️ *Automated Risk Detection & Exception Highlighting*
 
-✔️ Excel-Based HRMS Solution for Streamlined Operations
+✔️ *Excel-Based HRMS Solution for Streamlined Operations*
 
-✔️ Data-Backed Support for Promotions & Appraisals
+✔️ *Data-Backed Support for Promotions & Appraisals*
+
+✔️ *Interactive Dashboard for HR Reviews & Presentations*
 
 ## 💡 Why This Dashboard?
 
