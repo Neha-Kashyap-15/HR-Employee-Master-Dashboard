@@ -1,6 +1,7 @@
 # HR Employee Master Data Dashboard – Excel Automation
 
-📅 *Created on:* 8th July 2025  
+📅 *Created on:* 8th July 2025
+💼 *Domain:* Domain: Human Resources | Data Analytics | Excel Dashboarding
 🧩 *Built with:* Microsoft Excel | Pivot Tables | Charts |Data validation |Conditional formatting | INDEX-MATCH | Visual ranges |  Named Ranges | Sheet navigation with Hyperlinked Icons | Dynamic Dashboard Design |
 
 ## 🔍 Objective
@@ -15,6 +16,7 @@ To design a centralized, fully interactive Excel dashboard that simplifies emplo
 - 📈 *KPI Dashboard with Gender & Department Insights*
 - 🧭 *Sheet-to-Sheet Navigation with Hyperlinked Icons*
 - 💡 *Clean, professional design for easy interpretation*
+-  *Icons linked to sheets for quick navigation*
 
 ## 🧩 Core Sheets & Features
 
@@ -25,3 +27,5 @@ To design a centralized, fully interactive Excel dashboard that simplifies emplo
 | 🖼️ Pictures | Dynamic image mapping |
 | 📑 Interactive Data | One-click employee profile viewer via dropdown |
 | 📈 Overview Dashboard | Live KPIs, charts, and summary blocks |
+
+
