@@ -15,3 +15,13 @@ To design a centralized, fully interactive Excel dashboard that simplifies emplo
 - 📈 *KPI Dashboard with Gender & Department Insights*
 - 🧭 *Sheet-to-Sheet Navigation with Hyperlinked Icons*
 - 💡 *Clean, professional design for easy interpretation*
+
+## 🧩 Core Sheets & Features
+
+| Sheet | Key Functionality |
+|-------|-------------------|
+| 📄 Main Data | Structured HR database with all employee details |
+| 📊 Pivot Charts | Gender ratio, Joinings by year, Manpower by Department |
+| 🖼️ Pictures | Dynamic image mapping |
+| 📑 Interactive Data | One-click employee profile viewer via dropdown |
+| 📈 Overview Dashboard | Live KPIs, charts, and summary blocks |
