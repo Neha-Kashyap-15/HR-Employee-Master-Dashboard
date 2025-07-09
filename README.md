@@ -46,6 +46,11 @@ It’s designed to replace static sheets with a *smart, dynamic HR management to
 ## 🔗 Connect With Me
 
 *Author:* Neha Kashyap  
+- 📧 Email: smileykashyap9211@gmail.com  
+- 💼 LinkedIn: [Neha Kashyap] (www.linkedin.com/in/neha-kashyap-15s2000)
+
+
+
 
 
 
