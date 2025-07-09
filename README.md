@@ -10,6 +10,8 @@
 
 To design a centralized, fully interactive Excel dashboard that simplifies employee data tracking, improves HR analytics, and automates profile lookups — helping HR teams access insights in just one click.
 
+![HR employee master data screenshot](https://github.com/user-attachments/assets/303596cb-a1ff-456a-938a-fe2bbaf54ff9)
+
 ## 🌟 Key Features
 
 - 🔽 *Dropdown-Driven Employee Profile Viewer*
